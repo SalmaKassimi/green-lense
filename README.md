@@ -1,6 +1,3 @@
-# green-lense
-Green lense is a mobile app to classify garbage using YOLO ML model  and simplify waste management
-
 # Green-lense: mobile App for waste management
 
 "Green-lense" is an academical project for Environmental management system, Industrial Engineering : Artificial Intelligence specialty, inside the ENSAM Meknes, made by Salma Kassimi, Oumayma Tajir and Chaimae Elhajoubi, 5th year student and supervised by Bouhaddou Imane.
